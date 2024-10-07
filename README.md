@@ -6,10 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -22,34 +18,58 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles, Departments, and Teams.
+- Configure Agents (workers)
+- Configure Users (customers)
+- Configure SLA
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/6c82db3e-8634-4a7c-872d-3b76c30243c3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I am using the Admin Panel in osTicket to setup and configure the roles, departments, and teams that agents will be assigned to.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/dfca4758-8f94-40ed-bdb7-e65f3468d2d5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I am using the admin panel in osTicket to create and configure new agent accounts that can be used to work tickets.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/97308a26-bdb3-4ae8-b91a-cd13035b973b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here I am using the admin panel in osTicket to create new user accounts that can be used to submit tickets.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/dfca4758-8f94-40ed-bdb7-e65f3468d2d5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here I am using the admin panel in osTicket to create and configure new agent accounts that can be used to work tickets.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/e4b64e04-e506-4c27-b772-793521a59a23" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here I am configuring the SLA which is used to determine the priority of tickets and the timeframe in which they should be resolved.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/7d6bdda9-3d03-499a-9450-1e0aa72b30a5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here I am creating help topics that will be used by the users to denote the type of issue that is being sumbmitted with the ticket.
 </p>
 <br />
